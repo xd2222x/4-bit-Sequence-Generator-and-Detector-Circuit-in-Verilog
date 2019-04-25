@@ -1,0 +1,2 @@
+# 4-bit-Sequence-Generator-and-Detector-Circuit-in-Verilog
+We implemented generating pseudo random bit sequence using LFSR(Linear Feedback Shift Register) and detecting it using verilog code in FPGA board.Here we using ICOBoard for implementing the verilog code.We interface two Arduino UNO board, one for giving input to icoboard from a keypad hardware and another for show the ouputs in a LCD Display
