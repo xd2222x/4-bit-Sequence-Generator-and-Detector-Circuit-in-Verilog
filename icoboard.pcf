@@ -1,0 +1,32 @@
+set_io clk R9
+
+
+set_io e B7
+set_io f B6
+set_io g B3
+set_io h B5
+
+
+
+set_io a A5 
+set_io b A2
+set_io c C3
+set_io d B4
+
+set_io i D8 
+set_io j B9
+set_io k B10
+set_io l B11
+
+
+set_io out_led B8
+
+
+set_io i1 T15
+set_io j1 T14
+set_io k1 T11
+set_io l1 R10
+set_io out1 R14
+
+
+
